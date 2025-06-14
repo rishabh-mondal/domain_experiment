@@ -1,0 +1,184 @@
+Using device: cuda:1
+Epoch [1/200], Loss G_total: 51.4301, Loss G_adv: 15.8948, Loss G_detect: 0.0000, Loss G_identity: 8.6965, Loss D: 32.6465, WARMUP
+Epoch [2/200], Loss G_total: 33.2115, Loss G_adv: 13.8336, Loss G_detect: 0.0000, Loss G_identity: 5.2589, Loss D: 26.0413, WARMUP
+Epoch [3/200], Loss G_total: 32.3038, Loss G_adv: 13.7883, Loss G_detect: 0.0000, Loss G_identity: 5.0819, Loss D: 25.7984, WARMUP
+Epoch [4/200], Loss G_total: 30.5862, Loss G_adv: 13.6642, Loss G_detect: 0.0000, Loss G_identity: 4.7508, Loss D: 25.2063, WARMUP
+Epoch [5/200], Loss G_total: 27.2997, Loss G_adv: 13.7113, Loss G_detect: 0.0000, Loss G_identity: 4.0888, Loss D: 24.6197, WARMUP
+Epoch [6/200], Loss G_total: 25.3918, Loss G_adv: 13.7971, Loss G_detect: 0.0000, Loss G_identity: 3.6986, Loss D: 24.2834, WARMUP
+Epoch [7/200], Loss G_total: 24.9667, Loss G_adv: 13.7933, Loss G_detect: 0.0000, Loss G_identity: 3.6140, Loss D: 24.1443, WARMUP
+Epoch [8/200], Loss G_total: 24.7723, Loss G_adv: 14.2185, Loss G_detect: 0.0000, Loss G_identity: 3.5326, Loss D: 25.2056, WARMUP
+Epoch [9/200], Loss G_total: 25.8016, Loss G_adv: 13.6812, Loss G_detect: 0.0000, Loss G_identity: 3.7922, Loss D: 24.3867, WARMUP
+Epoch [10/200], Loss G_total: 22.9606, Loss G_adv: 13.7973, Loss G_detect: 0.0000, Loss G_identity: 3.2124, Loss D: 23.9430, WARMUP
+Saved checkpoints for epoch 10
+Epoch [11/200], Loss G_total: 34.5200, Loss G_adv: 13.8186, Loss G_detect: 11.8577, Loss G_identity: 3.1506, Loss D: 23.8781, FULL
+Epoch [12/200], Loss G_total: 28.8539, Loss G_adv: 13.7324, Loss G_detect: 5.2901, Loss G_identity: 3.3395, Loss D: 24.5594, FULL
+Epoch [13/200], Loss G_total: 28.6191, Loss G_adv: 13.7144, Loss G_detect: 5.4536, Loss G_identity: 3.2616, Loss D: 24.2856, FULL
+Epoch [14/200], Loss G_total: 29.1419, Loss G_adv: 13.8296, Loss G_detect: 7.0601, Loss G_identity: 3.0334, Loss D: 23.7839, FULL
+Epoch [15/200], Loss G_total: 27.9800, Loss G_adv: 13.8998, Loss G_detect: 6.1032, Loss G_identity: 2.9854, Loss D: 23.8752, FULL
+Epoch [16/200], Loss G_total: 27.1313, Loss G_adv: 13.8776, Loss G_detect: 4.3278, Loss G_identity: 3.1730, Loss D: 24.9355, FULL
+Epoch [17/200], Loss G_total: 26.9257, Loss G_adv: 14.0521, Loss G_detect: 4.2771, Loss G_identity: 3.1245, Loss D: 24.0856, FULL
+Epoch [18/200], Loss G_total: 25.0717, Loss G_adv: 13.8632, Loss G_detect: 3.8878, Loss G_identity: 2.8505, Loss D: 23.7004, FULL
+Epoch [19/200], Loss G_total: 24.8688, Loss G_adv: 13.9392, Loss G_detect: 3.9209, Loss G_identity: 2.7957, Loss D: 23.6052, FULL
+Epoch [20/200], Loss G_total: 25.1513, Loss G_adv: 13.9641, Loss G_detect: 3.4359, Loss G_identity: 2.9467, Loss D: 24.0227, FULL
+Saved checkpoints for epoch 20
+Epoch [21/200], Loss G_total: 26.8897, Loss G_adv: 14.0778, Loss G_detect: 3.5850, Loss G_identity: 3.2532, Loss D: 24.1176, FULL
+Epoch [22/200], Loss G_total: 24.7538, Loss G_adv: 14.2188, Loss G_detect: 3.6345, Loss G_identity: 2.8020, Loss D: 23.4354, FULL
+Epoch [23/200], Loss G_total: 24.5291, Loss G_adv: 14.2742, Loss G_detect: 3.8188, Loss G_identity: 2.7146, Loss D: 23.3030, FULL
+Epoch [24/200], Loss G_total: 24.0178, Loss G_adv: 14.3898, Loss G_detect: 2.7618, Loss G_identity: 2.8122, Loss D: 24.8068, FULL
+Epoch [25/200], Loss G_total: 24.8151, Loss G_adv: 14.1225, Loss G_detect: 2.8627, Loss G_identity: 2.9782, Loss D: 24.2415, FULL
+Epoch [26/200], Loss G_total: 22.8481, Loss G_adv: 13.9900, Loss G_detect: 2.7394, Loss G_identity: 2.6227, Loss D: 23.5147, FULL
+Epoch [27/200], Loss G_total: 22.5577, Loss G_adv: 14.1403, Loss G_detect: 2.5957, Loss G_identity: 2.5784, Loss D: 23.2714, FULL
+Epoch [28/200], Loss G_total: 22.6769, Loss G_adv: 14.4259, Loss G_detect: 2.1120, Loss G_identity: 2.6704, Loss D: 23.5967, FULL
+Epoch [29/200], Loss G_total: 23.2840, Loss G_adv: 14.1662, Loss G_detect: 2.2134, Loss G_identity: 2.7975, Loss D: 24.1137, FULL
+Epoch [30/200], Loss G_total: 22.2231, Loss G_adv: 14.2929, Loss G_detect: 2.2906, Loss G_identity: 2.5572, Loss D: 23.2641, FULL
+Saved checkpoints for epoch 30
+Epoch [31/200], Loss G_total: 22.4051, Loss G_adv: 14.3867, Loss G_detect: 2.7256, Loss G_identity: 2.4972, Loss D: 22.9115, FULL
+Epoch [32/200], Loss G_total: 22.3742, Loss G_adv: 14.6581, Loss G_detect: 1.9557, Loss G_identity: 2.6179, Loss D: 23.2765, FULL
+Epoch [33/200], Loss G_total: 22.3140, Loss G_adv: 14.8019, Loss G_detect: 1.7289, Loss G_identity: 2.6368, Loss D: 23.3294, FULL
+Epoch [34/200], Loss G_total: 21.6431, Loss G_adv: 14.7461, Loss G_detect: 1.8962, Loss G_identity: 2.4748, Loss D: 22.6091, FULL
+Epoch [35/200], Loss G_total: 21.7927, Loss G_adv: 14.8396, Loss G_detect: 2.1032, Loss G_identity: 2.4539, Loss D: 22.5338, FULL
+Epoch [36/200], Loss G_total: 23.6083, Loss G_adv: 15.2270, Loss G_detect: 1.8948, Loss G_identity: 2.8200, Loss D: 22.9429, FULL
+Epoch [37/200], Loss G_total: 25.1246, Loss G_adv: 15.1643, Loss G_detect: 2.1485, Loss G_identity: 3.0788, Loss D: 23.5399, FULL
+Epoch [38/200], Loss G_total: 22.9608, Loss G_adv: 15.1061, Loss G_detect: 2.0820, Loss G_identity: 2.6652, Loss D: 22.0494, FULL
+Epoch [39/200], Loss G_total: 22.5170, Loss G_adv: 15.3368, Loss G_detect: 2.2102, Loss G_identity: 2.5277, Loss D: 21.8930, FULL
+Epoch [40/200], Loss G_total: 22.0956, Loss G_adv: 15.3099, Loss G_detect: 1.4843, Loss G_identity: 2.5913, Loss D: 22.6150, FULL
+Saved checkpoints for epoch 40
+Epoch [41/200], Loss G_total: 22.4077, Loss G_adv: 15.3434, Loss G_detect: 1.3397, Loss G_identity: 2.6792, Loss D: 24.8520, FULL
+Epoch [42/200], Loss G_total: 21.4356, Loss G_adv: 14.9781, Loss G_detect: 1.6065, Loss G_identity: 2.4680, Loss D: 22.5828, FULL
+Epoch [43/200], Loss G_total: 21.3866, Loss G_adv: 14.8402, Loss G_detect: 1.8019, Loss G_identity: 2.4329, Loss D: 22.4125, FULL
+Epoch [44/200], Loss G_total: 21.9001, Loss G_adv: 14.7514, Loss G_detect: 1.3219, Loss G_identity: 2.6405, Loss D: 23.0694, FULL
+Epoch [45/200], Loss G_total: 21.7952, Loss G_adv: 14.9281, Loss G_detect: 1.1102, Loss G_identity: 2.6442, Loss D: 23.7830, FULL
+Epoch [46/200], Loss G_total: 20.6992, Loss G_adv: 14.1551, Loss G_detect: 1.2854, Loss G_identity: 2.4672, Loss D: 23.6572, FULL
+Epoch [47/200], Loss G_total: 20.4492, Loss G_adv: 14.0225, Loss G_detect: 1.3105, Loss G_identity: 2.4255, Loss D: 23.6353, FULL
+Epoch [48/200], Loss G_total: 21.8039, Loss G_adv: 14.1201, Loss G_detect: 1.2597, Loss G_identity: 2.6968, Loss D: 23.9973, FULL
+Epoch [49/200], Loss G_total: 21.6795, Loss G_adv: 14.0931, Loss G_detect: 1.0709, Loss G_identity: 2.7124, Loss D: 24.4124, FULL
+Epoch [50/200], Loss G_total: 20.3564, Loss G_adv: 13.1110, Loss G_detect: 1.5628, Loss G_identity: 2.4476, Loss D: 25.0341, FULL
+Saved checkpoints for epoch 50
+Epoch [51/200], Loss G_total: 20.3108, Loss G_adv: 13.3085, Loss G_detect: 1.8284, Loss G_identity: 2.3656, Loss D: 24.5835, FULL
+Using device: cuda:1
+Epoch [1/200], Loss G_total: 51.4984, Loss G_adv: 17.0963, Loss G_detect: 0.0000, Loss G_identity: 8.5900, Loss D: 33.4346, WARMUP
+Epoch [2/200], Loss G_total: 33.4853, Loss G_adv: 13.7962, Loss G_detect: 0.0000, Loss G_identity: 5.3174, Loss D: 25.5791, WARMUP
+Epoch [3/200], Loss G_total: 32.3185, Loss G_adv: 13.7592, Loss G_detect: 0.0000, Loss G_identity: 5.0878, Loss D: 25.3162, WARMUP
+Epoch [4/200], Loss G_total: 29.9899, Loss G_adv: 13.7124, Loss G_detect: 0.0000, Loss G_identity: 4.6267, Loss D: 25.0277, WARMUP
+Epoch [5/200], Loss G_total: 26.5743, Loss G_adv: 13.6667, Loss G_detect: 0.0000, Loss G_identity: 3.9482, Loss D: 24.6137, WARMUP
+Epoch [6/200], Loss G_total: 24.8108, Loss G_adv: 13.6843, Loss G_detect: 0.0000, Loss G_identity: 3.5937, Loss D: 24.2972, WARMUP
+Epoch [7/200], Loss G_total: 24.4297, Loss G_adv: 13.6749, Loss G_detect: 0.0000, Loss G_identity: 3.5184, Loss D: 24.2175, WARMUP
+Epoch [8/200], Loss G_total: 24.3207, Loss G_adv: 13.8429, Loss G_detect: 0.0000, Loss G_identity: 3.4799, Loss D: 24.7981, WARMUP
+Epoch [9/200], Loss G_total: 23.3988, Loss G_adv: 13.6534, Loss G_detect: 0.0000, Loss G_identity: 3.3144, Loss D: 24.3588, WARMUP
+Epoch [10/200], Loss G_total: 22.2455, Loss G_adv: 13.6847, Loss G_detect: 0.0000, Loss G_identity: 3.0806, Loss D: 24.0283, WARMUP
+Saved checkpoints for epoch 10
+Epoch [11/200], Loss G_total: 31.3650, Loss G_adv: 13.7010, Loss G_detect: 9.2456, Loss G_identity: 3.0538, Loss D: 23.9268, FULL
+Epoch [12/200], Loss G_total: 29.1973, Loss G_adv: 13.9556, Loss G_detect: 5.7624, Loss G_identity: 3.2914, Loss D: 25.2095, FULL
+Epoch [13/200], Loss G_total: 28.4166, Loss G_adv: 13.6751, Loss G_detect: 6.0192, Loss G_identity: 3.1120, Loss D: 24.1358, FULL
+Epoch [14/200], Loss G_total: 30.3516, Loss G_adv: 13.7564, Loss G_detect: 8.0114, Loss G_identity: 3.0924, Loss D: 23.8636, FULL
+Epoch [15/200], Loss G_total: 27.3429, Loss G_adv: 13.7431, Loss G_detect: 5.8077, Loss G_identity: 2.9327, Loss D: 23.7642, FULL
+Epoch [16/200], Loss G_total: 26.6463, Loss G_adv: 13.8782, Loss G_detect: 4.7329, Loss G_identity: 2.9949, Loss D: 24.1013, FULL
+Epoch [17/200], Loss G_total: 26.3393, Loss G_adv: 13.8874, Loss G_detect: 3.9742, Loss G_identity: 3.0843, Loss D: 24.1083, FULL
+Epoch [18/200], Loss G_total: 24.8898, Loss G_adv: 14.0190, Loss G_detect: 4.0829, Loss G_identity: 2.7595, Loss D: 23.9908, FULL
+Epoch [19/200], Loss G_total: 24.9147, Loss G_adv: 13.8888, Loss G_detect: 4.1737, Loss G_identity: 2.7593, Loss D: 23.7757, FULL
+Epoch [20/200], Loss G_total: 25.7068, Loss G_adv: 14.1444, Loss G_detect: 3.6654, Loss G_identity: 2.9938, Loss D: 24.7800, FULL
+Saved checkpoints for epoch 20
+Epoch [21/200], Loss G_total: 24.4703, Loss G_adv: 14.0045, Loss G_detect: 3.1484, Loss G_identity: 2.8639, Loss D: 24.0578, FULL
+Epoch [22/200], Loss G_total: 23.6904, Loss G_adv: 14.0522, Loss G_detect: 3.2796, Loss G_identity: 2.6769, Loss D: 23.5127, FULL
+Epoch [23/200], Loss G_total: 22.9416, Loss G_adv: 13.9795, Loss G_detect: 2.8761, Loss G_identity: 2.6152, Loss D: 23.5566, FULL
+Epoch [24/200], Loss G_total: 23.6809, Loss G_adv: 14.0807, Loss G_detect: 2.4876, Loss G_identity: 2.8306, Loss D: 23.7117, FULL
+Epoch [25/200], Loss G_total: 23.3212, Loss G_adv: 14.0467, Loss G_detect: 2.3700, Loss G_identity: 2.7856, Loss D: 24.1232, FULL
+Epoch [26/200], Loss G_total: 22.2599, Loss G_adv: 14.1342, Loss G_detect: 2.5375, Loss G_identity: 2.5311, Loss D: 23.1900, FULL
+Epoch [27/200], Loss G_total: 22.4171, Loss G_adv: 14.3085, Loss G_detect: 2.6454, Loss G_identity: 2.5235, Loss D: 23.0817, FULL
+Epoch [28/200], Loss G_total: 22.6443, Loss G_adv: 14.6322, Loss G_detect: 2.2003, Loss G_identity: 2.6256, Loss D: 23.7384, FULL
+Epoch [29/200], Loss G_total: 23.0240, Loss G_adv: 14.2789, Loss G_detect: 2.1302, Loss G_identity: 2.7509, Loss D: 23.5690, FULL
+Epoch [30/200], Loss G_total: 22.0754, Loss G_adv: 14.4209, Loss G_detect: 2.2466, Loss G_identity: 2.5237, Loss D: 22.9404, FULL
+Saved checkpoints for epoch 30
+Epoch [31/200], Loss G_total: 21.9416, Loss G_adv: 14.4436, Loss G_detect: 2.2829, Loss G_identity: 2.4874, Loss D: 22.9527, FULL
+Epoch [32/200], Loss G_total: 22.8869, Loss G_adv: 14.6481, Loss G_detect: 1.9757, Loss G_identity: 2.7174, Loss D: 23.2317, FULL
+Epoch [33/200], Loss G_total: 22.8711, Loss G_adv: 14.8237, Loss G_detect: 1.8984, Loss G_identity: 2.7122, Loss D: 23.4915, FULL
+Epoch [34/200], Loss G_total: 22.0686, Loss G_adv: 14.7188, Loss G_detect: 2.1797, Loss G_identity: 2.5059, Loss D: 22.6376, FULL
+Epoch [35/200], Loss G_total: 21.6425, Loss G_adv: 14.7246, Loss G_detect: 1.9574, Loss G_identity: 2.4646, Loss D: 22.5828, FULL
+Epoch [36/200], Loss G_total: 22.2648, Loss G_adv: 15.1956, Loss G_detect: 1.6901, Loss G_identity: 2.5954, Loss D: 23.3836, FULL
+Epoch [37/200], Loss G_total: 21.9743, Loss G_adv: 14.6512, Loss G_detect: 1.4919, Loss G_identity: 2.6314, Loss D: 23.1479, FULL
+Epoch [38/200], Loss G_total: 21.9273, Loss G_adv: 14.7295, Loss G_detect: 2.0908, Loss G_identity: 2.4944, Loss D: 22.7072, FULL
+Epoch [39/200], Loss G_total: 21.4828, Loss G_adv: 14.8012, Loss G_detect: 1.9646, Loss G_identity: 2.4235, Loss D: 22.5432, FULL
+Epoch [40/200], Loss G_total: 22.6976, Loss G_adv: 15.0133, Loss G_detect: 1.6655, Loss G_identity: 2.7051, Loss D: 23.5975, FULL
+Saved checkpoints for epoch 40
+Epoch [41/200], Loss G_total: 22.1807, Loss G_adv: 14.7138, Loss G_detect: 1.3976, Loss G_identity: 2.6852, Loss D: 23.4471, FULL
+Epoch [42/200], Loss G_total: 20.7426, Loss G_adv: 14.5569, Loss G_detect: 1.2910, Loss G_identity: 2.4346, Loss D: 22.8433, FULL
+Epoch [43/200], Loss G_total: 20.5676, Loss G_adv: 14.5370, Loss G_detect: 1.3194, Loss G_identity: 2.3959, Loss D: 22.7078, FULL
+Epoch [44/200], Loss G_total: 21.4925, Loss G_adv: 14.6737, Loss G_detect: 1.2742, Loss G_identity: 2.5763, Loss D: 24.2651, FULL
+Epoch [45/200], Loss G_total: 21.3959, Loss G_adv: 14.4673, Loss G_detect: 1.0901, Loss G_identity: 2.6145, Loss D: 23.3697, FULL
+Epoch [46/200], Loss G_total: 21.0296, Loss G_adv: 14.1520, Loss G_detect: 1.7392, Loss G_identity: 2.4429, Loss D: 23.6921, FULL
+Epoch [47/200], Loss G_total: 20.5833, Loss G_adv: 13.9073, Loss G_detect: 1.6995, Loss G_identity: 2.3860, Loss D: 23.7738, FULL
+Epoch [48/200], Loss G_total: 21.1320, Loss G_adv: 14.0284, Loss G_detect: 1.2783, Loss G_identity: 2.5679, Loss D: 24.0873, FULL
+Epoch [49/200], Loss G_total: 22.7072, Loss G_adv: 15.7693, Loss G_detect: 1.1622, Loss G_identity: 2.7321, Loss D: 21.8840, FULL
+Epoch [50/200], Loss G_total: 21.8874, Loss G_adv: 16.2124, Loss G_detect: 1.4876, Loss G_identity: 2.4587, Loss D: 21.0449, FULL
+Saved checkpoints for epoch 50
+Epoch [51/200], Loss G_total: 21.6397, Loss G_adv: 16.0795, Loss G_detect: 1.5117, Loss G_identity: 2.4177, Loss D: 21.0278, FULL
+Epoch [52/200], Loss G_total: 22.0713, Loss G_adv: 15.9103, Loss G_detect: 1.1683, Loss G_identity: 2.5896, Loss D: 22.6520, FULL
+Epoch [53/200], Loss G_total: 21.8064, Loss G_adv: 14.7511, Loss G_detect: 0.9873, Loss G_identity: 2.6887, Loss D: 24.0028, FULL
+Epoch [54/200], Loss G_total: 20.2263, Loss G_adv: 13.8701, Loss G_detect: 1.0873, Loss G_identity: 2.4408, Loss D: 24.1417, FULL
+Epoch [55/200], Loss G_total: 20.3252, Loss G_adv: 13.9213, Loss G_detect: 1.3143, Loss G_identity: 2.4101, Loss D: 24.2091, FULL
+Epoch [56/200], Loss G_total: 21.3968, Loss G_adv: 13.9705, Loss G_detect: 1.2062, Loss G_identity: 2.6411, Loss D: 24.6891, FULL
+Epoch [57/200], Loss G_total: 21.1794, Loss G_adv: 13.4975, Loss G_detect: 1.0122, Loss G_identity: 2.6837, Loss D: 24.7634, FULL
+Epoch [58/200], Loss G_total: 19.5386, Loss G_adv: 13.4567, Loss G_detect: 1.0810, Loss G_identity: 2.3459, Loss D: 24.5340, FULL
+Epoch [59/200], Loss G_total: 19.8869, Loss G_adv: 13.4998, Loss G_detect: 1.5455, Loss G_identity: 2.3183, Loss D: 24.4537, FULL
+Epoch [60/200], Loss G_total: 20.5579, Loss G_adv: 14.1943, Loss G_detect: 1.0101, Loss G_identity: 2.4901, Loss D: 24.1808, FULL
+Saved checkpoints for epoch 60
+Epoch [61/200], Loss G_total: 20.2700, Loss G_adv: 13.8112, Loss G_detect: 0.9404, Loss G_identity: 2.4848, Loss D: 24.3309, FULL
+Epoch [62/200], Loss G_total: 19.1267, Loss G_adv: 13.2944, Loss G_detect: 1.1422, Loss G_identity: 2.2675, Loss D: 25.0463, FULL
+Epoch [63/200], Loss G_total: 19.0108, Loss G_adv: 13.1383, Loss G_detect: 1.3445, Loss G_identity: 2.2194, Loss D: 25.0275, FULL
+Epoch [64/200], Loss G_total: 19.2245, Loss G_adv: 13.2674, Loss G_detect: 0.9692, Loss G_identity: 2.3243, Loss D: 24.9113, FULL
+Epoch [65/200], Loss G_total: 19.7663, Loss G_adv: 13.6786, Loss G_detect: 0.8051, Loss G_identity: 2.4244, Loss D: 24.5065, FULL
+Epoch [66/200], Loss G_total: 20.1472, Loss G_adv: 14.8941, Loss G_detect: 1.0628, Loss G_identity: 2.3275, Loss D: 22.0738, FULL
+Epoch [67/200], Loss G_total: 19.8520, Loss G_adv: 15.2296, Loss G_detect: 1.1030, Loss G_identity: 2.2268, Loss D: 21.5098, FULL
+Epoch [68/200], Loss G_total: 19.6797, Loss G_adv: 13.8328, Loss G_detect: 0.9307, Loss G_identity: 2.3665, Loss D: 24.7199, FULL
+Epoch [69/200], Loss G_total: 19.3977, Loss G_adv: 13.4413, Loss G_detect: 0.9588, Loss G_identity: 2.3436, Loss D: 24.7036, FULL
+Epoch [70/200], Loss G_total: 18.4727, Loss G_adv: 13.3882, Loss G_detect: 0.9112, Loss G_identity: 2.1735, Loss D: 24.2286, FULL
+Saved checkpoints for epoch 70
+Epoch [71/200], Loss G_total: 18.3709, Loss G_adv: 13.5489, Loss G_detect: 0.9843, Loss G_identity: 2.1224, Loss D: 24.0395, FULL
+Epoch [72/200], Loss G_total: 19.4819, Loss G_adv: 13.6754, Loss G_detect: 0.9490, Loss G_identity: 2.3390, Loss D: 24.3718, FULL
+Epoch [73/200], Loss G_total: 19.5320, Loss G_adv: 14.1489, Loss G_detect: 0.8574, Loss G_identity: 2.3200, Loss D: 23.6693, FULL
+Epoch [74/200], Loss G_total: 19.1377, Loss G_adv: 13.8537, Loss G_detect: 1.2698, Loss G_identity: 2.1882, Loss D: 24.6210, FULL
+Epoch [75/200], Loss G_total: 18.5453, Loss G_adv: 13.3517, Loss G_detect: 1.2009, Loss G_identity: 2.1337, Loss D: 25.0294, FULL
+Epoch [76/200], Loss G_total: 20.2727, Loss G_adv: 14.7575, Loss G_detect: 1.0353, Loss G_identity: 2.3717, Loss D: 23.3384, FULL
+Epoch [77/200], Loss G_total: 20.7965, Loss G_adv: 15.9163, Loss G_detect: 0.8742, Loss G_identity: 2.3928, Loss D: 21.7050, FULL
+Epoch [78/200], Loss G_total: 19.4566, Loss G_adv: 13.2954, Loss G_detect: 1.1527, Loss G_identity: 2.3312, Loss D: 25.3233, FULL
+Epoch [79/200], Loss G_total: 18.9007, Loss G_adv: 12.7519, Loss G_detect: 1.2062, Loss G_identity: 2.2637, Loss D: 26.2586, FULL
+Epoch [80/200], Loss G_total: 19.3252, Loss G_adv: 13.8241, Loss G_detect: 0.9275, Loss G_identity: 2.2971, Loss D: 24.7190, FULL
+Saved checkpoints for epoch 80
+Epoch [81/200], Loss G_total: 19.5345, Loss G_adv: 14.5506, Loss G_detect: 0.7532, Loss G_identity: 2.3012, Loss D: 23.4602, FULL
+Epoch [82/200], Loss G_total: 18.3227, Loss G_adv: 13.2790, Loss G_detect: 0.7906, Loss G_identity: 2.1785, Loss D: 25.1327, FULL
+Epoch [83/200], Loss G_total: 18.4078, Loss G_adv: 13.0269, Loss G_detect: 1.3428, Loss G_identity: 2.1103, Loss D: 25.2738, FULL
+Epoch [84/200], Loss G_total: 19.1545, Loss G_adv: 13.7132, Loss G_detect: 0.9037, Loss G_identity: 2.2788, Loss D: 24.4910, FULL
+Epoch [85/200], Loss G_total: 18.4008, Loss G_adv: 13.3115, Loss G_detect: 0.7746, Loss G_identity: 2.1941, Loss D: 25.3136, FULL
+Epoch [86/200], Loss G_total: 17.8120, Loss G_adv: 13.3152, Loss G_detect: 0.8087, Loss G_identity: 2.0691, Loss D: 24.8479, FULL
+Epoch [87/200], Loss G_total: 17.9984, Loss G_adv: 13.2871, Loss G_detect: 1.1591, Loss G_identity: 2.0391, Loss D: 24.6249, FULL
+Epoch [88/200], Loss G_total: 19.0155, Loss G_adv: 13.6734, Loss G_detect: 0.8748, Loss G_identity: 2.2608, Loss D: 24.4751, FULL
+Epoch [89/200], Loss G_total: 19.1668, Loss G_adv: 14.4544, Loss G_detect: 0.7030, Loss G_identity: 2.2473, Loss D: 23.8012, FULL
+Epoch [90/200], Loss G_total: 17.8409, Loss G_adv: 13.3603, Loss G_detect: 0.6575, Loss G_identity: 2.1007, Loss D: 24.6198, FULL
+Saved checkpoints for epoch 90
+Epoch [91/200], Loss G_total: 17.6184, Loss G_adv: 13.2195, Loss G_detect: 0.8059, Loss G_identity: 2.0405, Loss D: 24.8628, FULL
+Epoch [92/200], Loss G_total: 18.0677, Loss G_adv: 13.2308, Loss G_detect: 0.7253, Loss G_identity: 2.1454, Loss D: 25.0870, FULL
+Epoch [93/200], Loss G_total: 19.5102, Loss G_adv: 14.8403, Loss G_detect: 0.5972, Loss G_identity: 2.2986, Loss D: 22.6910, FULL
+Epoch [94/200], Loss G_total: 19.0640, Loss G_adv: 15.7230, Loss G_detect: 0.6916, Loss G_identity: 2.1022, Loss D: 20.6447, FULL
+Epoch [95/200], Loss G_total: 19.1814, Loss G_adv: 15.8517, Loss G_detect: 0.9271, Loss G_identity: 2.0657, Loss D: 20.7495, FULL
+Epoch [96/200], Loss G_total: 20.0768, Loss G_adv: 14.0082, Loss G_detect: 0.9122, Loss G_identity: 2.4321, Loss D: 24.2311, FULL
+Epoch [97/200], Loss G_total: 24.9043, Loss G_adv: 17.0522, Loss G_detect: 1.2368, Loss G_identity: 3.0283, Loss D: 20.3358, FULL
+Epoch [98/200], Loss G_total: 21.9498, Loss G_adv: 17.9847, Loss G_detect: 1.0740, Loss G_identity: 2.3767, Loss D: 18.8473, FULL
+Epoch [99/200], Loss G_total: 21.7866, Loss G_adv: 18.1458, Loss G_detect: 1.1819, Loss G_identity: 2.3064, Loss D: 18.6110, FULL
+Epoch [100/200], Loss G_total: 22.0733, Loss G_adv: 18.1233, Loss G_detect: 0.8742, Loss G_identity: 2.4275, Loss D: 21.1404, FULL
+Saved checkpoints for epoch 100
+Epoch [101/200], Loss G_total: 21.4992, Loss G_adv: 15.7138, Loss G_detect: 0.6971, Loss G_identity: 2.5890, Loss D: 22.6535, FULL
+Epoch [102/200], Loss G_total: 19.7704, Loss G_adv: 14.5648, Loss G_detect: 0.7490, Loss G_identity: 2.3478, Loss D: 23.4185, FULL
+Epoch [103/200], Loss G_total: 19.8089, Loss G_adv: 14.5194, Loss G_detect: 0.8827, Loss G_identity: 2.3333, Loss D: 23.6083, FULL
+Epoch [104/200], Loss G_total: 19.8225, Loss G_adv: 14.4981, Loss G_detect: 0.6247, Loss G_identity: 2.3897, Loss D: 23.8847, FULL
+Epoch [105/200], Loss G_total: 19.7678, Loss G_adv: 14.0500, Loss G_detect: 0.6952, Loss G_identity: 2.4095, Loss D: 24.6964, FULL
+Epoch [106/200], Loss G_total: 18.3550, Loss G_adv: 13.3255, Loss G_detect: 0.7568, Loss G_identity: 2.1871, Loss D: 24.8013, FULL
+Epoch [107/200], Loss G_total: 18.1008, Loss G_adv: 13.3710, Loss G_detect: 0.8674, Loss G_identity: 2.1096, Loss D: 24.7998, FULL
+Epoch [108/200], Loss G_total: 18.5954, Loss G_adv: 13.9420, Loss G_detect: 0.6478, Loss G_identity: 2.1953, Loss D: 24.3032, FULL
+Epoch [109/200], Loss G_total: 19.8170, Loss G_adv: 14.8815, Loss G_detect: 0.5173, Loss G_identity: 2.3718, Loss D: 23.2245, FULL
+Epoch [110/200], Loss G_total: 17.9090, Loss G_adv: 13.1337, Loss G_detect: 0.6163, Loss G_identity: 2.1452, Loss D: 25.3627, FULL
+Saved checkpoints for epoch 110
+Epoch [111/200], Loss G_total: 18.0427, Loss G_adv: 13.4599, Loss G_detect: 0.9004, Loss G_identity: 2.0825, Loss D: 24.7825, FULL
+Epoch [112/200], Loss G_total: 17.8821, Loss G_adv: 13.4977, Loss G_detect: 0.5948, Loss G_identity: 2.1077, Loss D: 24.9905, FULL
+Epoch [113/200], Loss G_total: 18.2478, Loss G_adv: 13.6830, Loss G_detect: 0.5015, Loss G_identity: 2.1810, Loss D: 24.9456, FULL
+Epoch [114/200], Loss G_total: 17.3507, Loss G_adv: 13.3107, Loss G_detect: 0.5575, Loss G_identity: 2.0276, Loss D: 24.6115, FULL
+Epoch [115/200], Loss G_total: 17.2025, Loss G_adv: 13.3990, Loss G_detect: 0.6542, Loss G_identity: 1.9698, Loss D: 24.5831, FULL
