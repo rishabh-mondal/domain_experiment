@@ -6,3 +6,5 @@ checkpoints_for_crops/*
 embeddings/*
 data/lucknow_airshed/*
 data/staclip/*
+data/brick_kiln_crops/*
+an_embedding_active_learning/embeddings_micro/*
