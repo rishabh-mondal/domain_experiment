@@ -8,3 +8,6 @@ data/lucknow_airshed/*
 data/staclip/*
 data/brick_kiln_crops/*
 an_embedding_active_learning/embeddings_micro/*
+data/lucknow_airshed_100/*
+data/ncr_minus_airshed/*
+data/uttar_pradesh_pool_data/*
