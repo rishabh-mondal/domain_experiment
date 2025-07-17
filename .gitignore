@@ -11,3 +11,7 @@ an_embedding_active_learning/embeddings_micro/*
 data/lucknow_airshed_100/*
 data/ncr_minus_airshed/*
 data/uttar_pradesh_pool_data/*
+data/*
+an_embedding_active_learning/baseline_3/*
+an_embedding_active_learning/inference_outputs/*
+an_embedding_active_learning/scripts_v1/*
