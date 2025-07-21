@@ -230,11 +230,11 @@ exp8_train_lucknow_60_plus_200_delhi_ncr_train_lucknow_40_test = {
     "experiment_name": "exp8_train_lucknow_60_plus_200_delhi_ncr_train_lucknow_40_test",
     "train_images": [
         f"{lucknow}/train60/images",
-        f"{lucknow}/images_random200"
+        f"{delhi}/images_random200"
     ],
     "train_labels": [
         f"{lucknow}/train60/labels_voc",
-        f"{lucknow}/labels_voc_random200"
+        f"{delhi}/labels_voc_random200"
     ],
     "test_images": f"{lucknow}/test40/images",
     "test_labels": f"{lucknow}/test40/labels_voc"
@@ -245,20 +245,20 @@ exp8_train_lucknow_60_plus_200_delhi_ncr_train_lucknow_40_test = {
 # ===========================
 
 all_experiments = [
-    exp1_60_train_delhi_test_lucknow,
-    exp2_60_train_delhi_test_delhi40,
-    exp3_train_60_plus_200_delhi_ncr_train_lucknow_test,
-    exp4_train_60_plus_200_uppool_train_lucknow_test,
-    exp5_delhi_plus_100_uppool_plus_100_delhi_ncr_train_lucknow_test,
-    exp6_delhi_60_plus_100_up_pool_plus_100_delhi_ncr_train_delhi_40_test,
-    exp7_train_delhi_60_plus_200_up_pool_train_delhi_40_test,
-    exp8_train_delhi_60_plus_200_delhi_ncr_train_delhi_40_test,
-    exp1_60_train_lucknow_test_delhi_airshed,
-    exp2_60_train_lucknow_test_lucknow_40,
-    exp3_train_60_lucknow_plus_200_delhi_ncr_train_delhi_airshed_test,
-    exp4_train_60_lucknow_plus_200_uppool_train_delhi_test,
-    exp5_train_60_lucknow_plus_100_uppool_plus_100_delhi_ncr_train_delhi_test,
-    exp6_lucknow_60_plus_100_up_pool_plus_100_delhi_ncr_train_lucknow_40_test,
-    exp7_train_lucknow_60_plus_200_up_pool_train_lucknow_40_test,
+    # exp1_60_train_delhi_test_lucknow,
+    # exp2_60_train_delhi_test_delhi40,
+    # exp3_train_60_plus_200_delhi_ncr_train_lucknow_test,
+    # exp4_train_60_plus_200_uppool_train_lucknow_test,
+    # exp5_delhi_plus_100_uppool_plus_100_delhi_ncr_train_lucknow_test,
+    # exp6_delhi_60_plus_100_up_pool_plus_100_delhi_ncr_train_delhi_40_test,
+    # exp7_train_delhi_60_plus_200_up_pool_train_delhi_40_test,
+    # exp8_train_delhi_60_plus_200_delhi_ncr_train_delhi_40_test,
+    # exp1_60_train_lucknow_test_delhi_airshed,
+    # exp2_60_train_lucknow_test_lucknow_40,
+    # exp3_train_60_lucknow_plus_200_delhi_ncr_train_delhi_airshed_test,
+    # exp4_train_60_lucknow_plus_200_uppool_train_delhi_test,
+    # exp5_train_60_lucknow_plus_100_uppool_plus_100_delhi_ncr_train_delhi_test,
+    # exp6_lucknow_60_plus_100_up_pool_plus_100_delhi_ncr_train_lucknow_40_test,
+    # exp7_train_lucknow_60_plus_200_up_pool_train_lucknow_40_test,
     exp8_train_lucknow_60_plus_200_delhi_ncr_train_lucknow_40_test
 ]
