@@ -35,3 +35,6 @@ aaai/outputs_exp8_train_lucknow_60_plus_200_delhi_ncr_train_lucknow_40_test/
 aaai/outputs_exp5_train_60_lucknow_plus_100_uppool_plus_100_delhi_ncr_train_delhi_test/
 aaai/outputs_exp2_60_train_lucknow_test_lucknow_40/
 aaai/outputs_exp1_60_train_delhi_test_lucknow
+aaai/active_learning/__pycache__
+aaai/brickkiln/__pycache__
+aaai/outputs/
